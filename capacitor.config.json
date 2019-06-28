@@ -1,0 +1,10 @@
+{
+  "appId": "com.ym.learnionic",
+  "appName": "learn-ionic",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "build",
+  "server": {
+    "url": "http://192.168.11.83:3000"
+  }
+}
